@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://ipreencekmr.github.io/csb-pc1d1/static/css/main.e4bea3d6.chunk.css",
+    "main.js": "https://ipreencekmr.github.io/csb-pc1d1/static/js/main.e9d6440a.chunk.js",
+    "main.js.map": "https://ipreencekmr.github.io/csb-pc1d1/static/js/main.e9d6440a.chunk.js.map",
+    "runtime-main.js": "https://ipreencekmr.github.io/csb-pc1d1/static/js/runtime-main.e4330787.js",
+    "runtime-main.js.map": "https://ipreencekmr.github.io/csb-pc1d1/static/js/runtime-main.e4330787.js.map",
+    "static/css/2.d8cc838b.chunk.css": "https://ipreencekmr.github.io/csb-pc1d1/static/css/2.d8cc838b.chunk.css",
+    "static/js/2.385323d9.chunk.js": "https://ipreencekmr.github.io/csb-pc1d1/static/js/2.385323d9.chunk.js",
+    "static/js/2.385323d9.chunk.js.map": "https://ipreencekmr.github.io/csb-pc1d1/static/js/2.385323d9.chunk.js.map",
+    "index.html": "https://ipreencekmr.github.io/csb-pc1d1/index.html",
+    "static/css/2.d8cc838b.chunk.css.map": "https://ipreencekmr.github.io/csb-pc1d1/static/css/2.d8cc838b.chunk.css.map",
+    "static/css/main.e4bea3d6.chunk.css.map": "https://ipreencekmr.github.io/csb-pc1d1/static/css/main.e4bea3d6.chunk.css.map",
+    "static/js/2.385323d9.chunk.js.LICENSE.txt": "https://ipreencekmr.github.io/csb-pc1d1/static/js/2.385323d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4330787.js",
+    "static/css/2.d8cc838b.chunk.css",
+    "static/js/2.385323d9.chunk.js",
+    "static/css/main.e4bea3d6.chunk.css",
+    "static/js/main.e9d6440a.chunk.js"
+  ]
+}
